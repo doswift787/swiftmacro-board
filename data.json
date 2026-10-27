@@ -1,0 +1,185 @@
+{
+ "title": "@swiftmacro watchlist digest \u2014 2026-10-25",
+ "date": "2026-10-25",
+ "timezone": "America/Chicago",
+ "updated": "2026-10-25T22:47:00-05:00",
+ "brand_title": "swiftmacro Virality Board",
+ "brand_handle": "@swiftmacro",
+ "hits": [],
+ "virals": [
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 874330,
+   "text": "BREAKING: President Trump announces that the US will not strike Iran today.\n\nThe announcement comes just 48 hours after President Trump said the US \u201cmay have to do another operation against Iran.\u201d\n\nUS stock market futures open in less than ",
+   "url": "https://x.com/KobeissiLetter/status/2114408186363134405",
+   "posted_at": "2026-10-25T17:26:10.000Z"
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 582657,
+   "text": "BREAKING: In an unprecedented comeback, Brazil's President Lula da Silva has defeated Flavio Bolsonaro, securing a 4th term in office.\n\nLula is officially the first presidential candidate in Brazil's modern democratic history to lose the fi",
+   "url": "https://x.com/KobeissiLetter/status/2114518806370599401",
+   "posted_at": "2026-10-26T00:45:43.000Z"
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 329066,
+   "text": "QATAR MEDIATES IN IRAN AS U.S. SEEKS TO EASE TENSIONS\n\nQatari mediators are in Tehran as part of a diplomatic effort coordinated with the United States to de-escalate regional tensions, Reuters reports.\n\nThe initiative comes amid heightened",
+   "url": "https://x.com/DeItaone/status/2114350098888998985",
+   "posted_at": "2026-10-25T13:35:20.000Z"
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 325278,
+   "text": "BREAKING: President Trump issues a second statement endorsing Israeli Prime Minister Benjamin Netanyahu.\n\nThis marks the first time a US President has publicly endorsed a candidate in the Israeli elections. https://t.co/t4l0qtj3hi",
+   "url": "https://x.com/KobeissiLetter/status/2114494169968165063",
+   "posted_at": "2026-10-25T23:07:50.000Z"
+  },
+  {
+   "handle": "@Schuldensuehner",
+   "name": "Holger Zschaepitz",
+   "views": 320610,
+   "text": "Good Morning from Germany, where one of Europe\u2019s biggest landlords calls the country \u201cuninvestable.\u201d Heimstaden is withholding fresh capital over Berlin\u2019s expropriation plans. It owns 20,000 apartments in the city worth ~\u20ac5bn and estimates ",
+   "url": "https://x.com/Schuldensuehner/status/2113890814984134898",
+   "posted_at": "2026-10-24T07:10:19.000Z"
+  }
+ ],
+ "outsiders": [],
+ "patterns": [],
+ "no_hits": [],
+ "virals_narrative": "Top 5 posts by views from the last 48h across the 16-account watchlist (last 10 originals per account, pulled Oct 25 10:47 PM CT).",
+ "narrative_synthesis": "",
+ "virals_window": "last ~48h",
+ "virals_target": 5,
+ "hits_count": 0,
+ "outsiders_count": 5,
+ "operator": {
+  "handle": "@swiftmacro",
+  "name": "Douglas Swift",
+  "profile_url": "https://x.com/swiftmacro"
+ },
+ "ui": {
+  "default_theme": "night"
+ },
+ "day_roster": [],
+ "you_rank": null,
+ "trend_input_only_posts": [],
+ "watchlist_stats": [
+  {
+   "handle": "@DeItaone",
+   "posts": 10,
+   "median_views": 243891,
+   "max_views": 329066,
+   "under_5k": 0
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "posts": 10,
+   "median_views": 194458,
+   "max_views": 874330,
+   "under_5k": 0
+  },
+  {
+   "handle": "@markets",
+   "posts": 1,
+   "median_views": 101332,
+   "max_views": 101332,
+   "under_5k": 0
+  },
+  {
+   "handle": "@NickTimiraos",
+   "posts": 10,
+   "median_views": 101285,
+   "max_views": 325963,
+   "under_5k": 0
+  },
+  {
+   "handle": "@MacroAlf",
+   "posts": 10,
+   "median_views": 88792,
+   "max_views": 381516,
+   "under_5k": 0
+  },
+  {
+   "handle": "@charliebilello",
+   "posts": 10,
+   "median_views": 70870,
+   "max_views": 155666,
+   "under_5k": 0
+  },
+  {
+   "handle": "@unusual_whales",
+   "posts": 10,
+   "median_views": 69295,
+   "max_views": 258345,
+   "under_5k": 0
+  },
+  {
+   "handle": "@zerohedge",
+   "posts": 10,
+   "median_views": 62302,
+   "max_views": 120143,
+   "under_5k": 0
+  },
+  {
+   "handle": "@Barchart",
+   "posts": 10,
+   "median_views": 48636,
+   "max_views": 139500,
+   "under_5k": 0
+  },
+  {
+   "handle": "@Schuldensuehner",
+   "posts": 10,
+   "median_views": 40228,
+   "max_views": 320610,
+   "under_5k": 0
+  },
+  {
+   "handle": "@biancoresearch",
+   "posts": 9,
+   "median_views": 34914,
+   "max_views": 82528,
+   "under_5k": 1
+  },
+  {
+   "handle": "@JavierBlas",
+   "posts": 10,
+   "median_views": 33595,
+   "max_views": 167263,
+   "under_5k": 0
+  },
+  {
+   "handle": "@financialjuice",
+   "posts": 10,
+   "median_views": 27394,
+   "max_views": 29303,
+   "under_5k": 0
+  },
+  {
+   "handle": "@LizAnnSonders",
+   "posts": 10,
+   "median_views": 17722,
+   "max_views": 25590,
+   "under_5k": 0
+  },
+  {
+   "handle": "@FirstSquawk",
+   "posts": 10,
+   "median_views": 15509,
+   "max_views": 18434,
+   "under_5k": 0
+  },
+  {
+   "handle": "@TheTranscript_",
+   "posts": 10,
+   "median_views": 6010,
+   "max_views": 12753,
+   "under_5k": 3
+  }
+ ]
+}
