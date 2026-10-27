@@ -1,61 +1,434 @@
 {
- "title": "@swiftmacro watchlist digest \u2014 2026-10-25",
- "date": "2026-10-25",
+ "title": "@swiftmacro watchlist digest — 2026-10-27",
+ "date": "2026-10-27",
  "timezone": "America/Chicago",
- "updated": "2026-10-25T22:47:00-05:00",
+ "updated": "2026-10-27T07:07:35-05:00",
  "brand_title": "swiftmacro Virality Board",
  "brand_handle": "@swiftmacro",
- "hits": [],
- "virals": [
+ "hits": [
   {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 874330,
-   "text": "BREAKING: President Trump announces that the US will not strike Iran today.\n\nThe announcement comes just 48 hours after President Trump said the US \u201cmay have to do another operation against Iran.\u201d\n\nUS stock market futures open in less than ",
-   "url": "https://x.com/KobeissiLetter/status/2114408186363134405",
-   "posted_at": "2026-10-25T17:26:10.000Z"
+   "views": 9831538,
+   "likes": 19078,
+   "reposts": 2017,
+   "text": "BREAKING: Microsoft, $MSFT, is offering buyouts to 60,000 workers as part of the company’s efforts to cut costs amid AI adoption, per Bloomberg.\n\nPersonnel on select teams in the US, Canada, India, and the UK at a vice president level and below will be eligible.\n\nThis reflects",
+   "url": "https://x.com/KobeissiLetter/status/2114745896315359305",
+   "posted_at": "2026-10-26T15:48:06.000Z",
+   "highlight": true,
+   "draft_en": "The AI funding trade just changed shape in one day:\n\n• Microsoft offering buyouts to 60,000 workers to cut costs amid AI adoption\n• Meta raising up to $95B via stock offerings to fund AI\n\nWhen the biggest balance sheets start paying for capex with headcount and equity, the 'free cash flow funds everything' era is over.",
+   "video_tip": "Split-screen: MSFT headline left, META headline right, a big '60,000' and '$95B' counter in the middle; 10-12s, captions burned in.",
+   "top10_rank": 1
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 2338660,
+   "likes": 8233,
+   "reposts": 332,
+   "text": "Only 2.2% of mortgaged homes are underwater, per Goldman Sachs.\n\nIn 2008, it was roughly 1 in 4.",
+   "url": "https://x.com/unusual_whales/status/2114697804555636839",
+   "posted_at": "2026-10-26T12:37:00.000Z",
+   "highlight": true,
+   "draft_en": "This is not 2008. It's a freeze.\n\n• Only 2.2% of mortgaged homes underwater (vs ~1 in 4 in 2008)\n• Pending home sales at a record low\n• Builder confidence lowest since 2012, a record 43% of builders cutting prices\n\nNo forced sellers + no buyers = volume collapses, prices barely move.",
+   "video_tip": "Talking-head 20s with two lower-third stats (2.2% vs ~1 in 4), then a quick cut to the pending-home-sales chart; hook line on screen in first second.",
+   "top10_rank": 2
   },
   {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 582657,
-   "text": "BREAKING: In an unprecedented comeback, Brazil's President Lula da Silva has defeated Flavio Bolsonaro, securing a 4th term in office.\n\nLula is officially the first presidential candidate in Brazil's modern democratic history to lose the fi",
-   "url": "https://x.com/KobeissiLetter/status/2114518806370599401",
-   "posted_at": "2026-10-26T00:45:43.000Z"
+   "views": 1650076,
+   "likes": 17299,
+   "reposts": 2539,
+   "text": "BREAKING: Brazil's stock market collapses nearly -30% and the Brazilian Real loses -10% after President Lula da Silva is unexpectedly re-elected.\n\nBrazil's stock market has lost over $200 billion of market cap today. https://t.co/XsHVYmepvV",
+   "url": "https://x.com/KobeissiLetter/status/2114716174764372298",
+   "posted_at": "2026-10-26T13:50:00.000Z",
+   "highlight": true,
+   "draft_en": "Brazil just printed a crisis-grade session after Lula's re-election:\n\n• Stocks down nearly -30%\n• Real -10%\n• 10Y yield pushing 16%, +300bp in ONE day\n\nAnd the volatility index fell -40%.\n\nWhen the vol gauge drops while the market craters, ask what's actually being hedged — and who's left holding the tail.",
+   "video_tip": "15s chart-on-screen: Brazil equities vs 10Y yield vs vol index side by side; voiceover reads the three numbers, freeze on the -40% vol print.",
+   "top10_rank": 3
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 1079375,
+   "likes": 9586,
+   "reposts": 539,
+   "text": "BREAKING: Flávio has reportedly been summoned by the Federal Police to surrender his passport",
+   "url": "https://x.com/unusual_whales/status/2114827348684185722",
+   "posted_at": "2026-10-26T21:11:46.000Z",
+   "highlight": true
   },
   {
    "handle": "@DeItaone",
    "name": "*Walter Bloomberg",
-   "views": 329066,
-   "text": "QATAR MEDIATES IN IRAN AS U.S. SEEKS TO EASE TENSIONS\n\nQatari mediators are in Tehran as part of a diplomatic effort coordinated with the United States to de-escalate regional tensions, Reuters reports.\n\nThe initiative comes amid heightened",
-   "url": "https://x.com/DeItaone/status/2114350098888998985",
-   "posted_at": "2026-10-25T13:35:20.000Z"
+   "views": 945082,
+   "likes": 2029,
+   "reposts": 175,
+   "text": "MICROSOFT TO OFFER BUYOUTS TO 60,000 WORKERS IN LATEST COST CUT",
+   "url": "https://x.com/DeItaone/status/2114741568816980101",
+   "posted_at": "2026-10-26T15:30:54.000Z",
+   "highlight": true
   },
   {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 325278,
-   "text": "BREAKING: President Trump issues a second statement endorsing Israeli Prime Minister Benjamin Netanyahu.\n\nThis marks the first time a US President has publicly endorsed a candidate in the Israeli elections. https://t.co/t4l0qtj3hi",
-   "url": "https://x.com/KobeissiLetter/status/2114494169968165063",
-   "posted_at": "2026-10-25T23:07:50.000Z"
+   "views": 925798,
+   "likes": 7032,
+   "reposts": 615,
+   "text": "BREAKING: Anthropic officially files its S-1 registration statement for an IPO, seeking to list on the Nasdaq under the ticker symbol $ANT.\n\nFULL SUMMARY OF ANTHROPIC'S S-1 FILING:\n\n1. Anthropic posted H1 2026 revenue of $16.3 billion with a net loss of $80.7 billion\n\n2.",
+   "url": "https://x.com/KobeissiLetter/status/2114710153417118191",
+   "posted_at": "2026-10-26T13:26:04.000Z",
+   "highlight": true,
+   "draft_en": "Anthropic's S-1 in four lines:\n\n• H1 2026 revenue: $16.3B, +1,300% YoY\n• H1 opex: $17.0B, +415% YoY\n• ~1/5 of revenue from two customers\n• Ticker: $ANT on Nasdaq\n\nHypergrowth, yes. But concentration + a cost base growing this fast is the real story for anyone pricing the IPO.",
+   "video_tip": "Screen-record scrolling the S-1 cover page, cut to a 4-line text card with each stat popping in; end on 'concentration risk' in red.",
+   "top10_rank": 4
   },
   {
-   "handle": "@Schuldensuehner",
-   "name": "Holger Zschaepitz",
-   "views": 320610,
-   "text": "Good Morning from Germany, where one of Europe\u2019s biggest landlords calls the country \u201cuninvestable.\u201d Heimstaden is withholding fresh capital over Berlin\u2019s expropriation plans. It owns 20,000 apartments in the city worth ~\u20ac5bn and estimates ",
-   "url": "https://x.com/Schuldensuehner/status/2113890814984134898",
-   "posted_at": "2026-10-24T07:10:19.000Z"
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 891286,
+   "likes": 4306,
+   "reposts": 528,
+   "text": "One of the most insane charts we've seen.\n\nEven as Brazilian stocks plunge -30% after their Presidential election, Brazil's volatility index is DOWN -40%.\n\nBrazil has lost -$200B of market cap today, yet \"volatility\" is collapsing.\n\nWhat is happening? Let us explain.\n\n(a thread) https://t.co/s6ef4DCqoz",
+   "url": "https://x.com/KobeissiLetter/status/2114762014354714958",
+   "posted_at": "2026-10-26T16:52:09.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 793959,
+   "likes": 6935,
+   "reposts": 691,
+   "text": "BREAKING: France just offered sweeping education concessions to end weeks of student protests, and students say it’s not enough, per BBC\n\nThe government’s package:\n\n3,000 extra substitute teachers for high-need schools and at-risk suburbs\nCanceling planned teacher job cuts and",
+   "url": "https://x.com/unusual_whales/status/2114849050637807979",
+   "posted_at": "2026-10-26T22:38:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 742597,
+   "likes": 4559,
+   "reposts": 404,
+   "text": "BREAKING: Anthropic warns in its IPO filing that a catastrophic AI-related incident could cause harm on a scale that no single insurer, and “potentially the insurance industry in the aggregate,” could cover.\n\nThe filing says Anthropic’s insurance may not be enough to cover the",
+   "url": "https://x.com/unusual_whales/status/2114790993967132700",
+   "posted_at": "2026-10-26T18:47:18.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 645452,
+   "likes": 6046,
+   "reposts": 555,
+   "text": "BREAKING: House Democrats are vowing to make Jeffrey Epstein a top priority if they win back the House next week, per Forbes.\n\nDemocrats on the House Judiciary Committee released a 50-page report Monday detailing allegations from 11 women suggesting President Trump had some",
+   "url": "https://x.com/unusual_whales/status/2114783619097256060",
+   "posted_at": "2026-10-26T18:18:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 529943,
+   "likes": 5229,
+   "reposts": 265,
+   "text": "BREAKING: Anthropic said that roughly one-fifth of Anthropic's revenue came from two customers. The remainder came from a small handful of clients.\n\nAnthropic saw a net loss of $80.7 billion through June, though the vast majority of that was the result of accounting charges.",
+   "url": "https://x.com/unusual_whales/status/2114732281390657861",
+   "posted_at": "2026-10-26T14:54:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 517505,
+   "likes": 4240,
+   "reposts": 472,
+   "text": "BREAKING: Anthropic is warning investors that AI could pose catastrophic and even existential risks to humanity.\n\nThe warning comes from its IPO filing, which Reuters reported devotes about 80 of its 261 pages to risk factors.",
+   "url": "https://x.com/unusual_whales/status/2114724779404165181",
+   "posted_at": "2026-10-26T14:24:11.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 514548,
+   "likes": 6758,
+   "reposts": 913,
+   "text": "Brazil's 10Y Government Bond Yield is now pushing 16%!\n\nThat's a +300 basis point gain in a single day.\n\nThat would be like US mortgage rates going from 7% to 10% in a single day. https://t.co/OmSum6vZmK https://t.co/VLtALSCU3X",
+   "url": "https://x.com/KobeissiLetter/status/2114785608312967621",
+   "posted_at": "2026-10-26T18:25:54.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@zerohedge",
+   "name": "zerohedge",
+   "views": 482325,
+   "likes": 2542,
+   "reposts": 257,
+   "text": "*ANTHROPIC WARNS OF CATASTROPHIC, EXISTENTIAL RISKS TO HUMANITY",
+   "url": "https://x.com/zerohedge/status/2114708707564982488",
+   "posted_at": "2026-10-26T13:20:19.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 430120,
+   "likes": 1559,
+   "reposts": 137,
+   "text": "*ANTHROPIC WARNS OF CATASTROPHIC, EXISTENTIAL RISKS TO HUMANITY",
+   "url": "https://x.com/DeItaone/status/2114708608067977260",
+   "posted_at": "2026-10-26T13:19:56.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 388438,
+   "likes": 1872,
+   "reposts": 182,
+   "text": "BREAKING: Microsoft, $MSFT, is offering buyouts to around 60,000 employees, according to reports from Business Insider and Bloomberg. \n\nThe move marks Microsoft’s latest efforts to cut costs and rework its workforce for AI.\n\nEmployees at the vice president level and below on",
+   "url": "https://x.com/unusual_whales/status/2114762394622906692",
+   "posted_at": "2026-10-26T16:53:39.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 359692,
+   "likes": 957,
+   "reposts": 146,
+   "text": "$MSFT  - MICROSOFT OFFERS BUYOUTS TO 60,000 WORKERS AMID AI SPENDING BOOM\n\nMicrosoft is offering voluntary buyouts to approximately 60,000 employees as it restructures its workforce and redirects spending toward AI.\n\nKey details:\n\n🔸 60,000 workers eligible across the US, Canada, https://t.co/E3mUU9w4m0",
+   "url": "https://x.com/DeItaone/status/2114744629669089534",
+   "posted_at": "2026-10-26T15:43:04.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 318566,
+   "likes": 3825,
+   "reposts": 235,
+   "text": "\"In China, the AI bubble has already burst,\" per Reuters",
+   "url": "https://x.com/unusual_whales/status/2114818851116298652",
+   "posted_at": "2026-10-26T20:38:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 317540,
+   "likes": 6045,
+   "reposts": 406,
+   "text": "Nvidia CEO Jensen Huang has endorsed California's potential new billionaire tax laws, even if it will cost him $8 billion.\n\n\"I don't mind paying taxes. The more you make, the more taxes you pay. I'm okay with that. I am the ultimate American Dream.\"",
+   "url": "https://x.com/unusual_whales/status/2114758201484755283",
+   "posted_at": "2026-10-26T16:37:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 308252,
+   "likes": 2292,
+   "reposts": 140,
+   "text": "BREAKING: Meta, $META, will raise up to $95 billion through a series of stock offerings in order to fund the development of AI.\n\nThe financing plan comes just days after Meta said it would spend up to $145 billion in CapEx this year.",
+   "url": "https://x.com/KobeissiLetter/status/2114691296950698462",
+   "posted_at": "2026-10-26T12:11:08.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 303631,
+   "likes": 3214,
+   "reposts": 461,
+   "text": "China's 2008 is happening now.\n\nProperty investment in China dropped -21% YoY in the first 9 months of 2026, its largest decline for this period of the year on record.\n\nThis marks a deterioration from a -20% YoY decline in the first 8 months of 2026.\n\nThe latest drop is also https://t.co/YK8C8s5gH1",
+   "url": "https://x.com/KobeissiLetter/status/2114847475743818202",
+   "posted_at": "2026-10-26T22:31:44.000Z",
+   "highlight": true,
+   "draft_en": "China's slowdown is now leaking into everyone else's earnings:\n\n• Property investment -21% YoY in the first 9 months of 2026, worst on record for the period\n• Chinese stocks on track for 12 straight red weeks, longest losing streak in history\n• Mercedes joins BMW & VW in cutting outlook on the 'China shock'\n\nThe export of deflation has a body count, and it's German autos first.",
+   "video_tip": "Map zoom from China to Germany with three stat cards; close on the 'China shock' headline — 15s, no music, wire-style text.",
+   "top10_rank": 5
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 295595,
+   "likes": 1411,
+   "reposts": 160,
+   "text": "IRAN SIGNALS FLEXIBILITY ON STRAIT OF HORMUZ DEAL\n\nIran says it could reopen the Strait of Hormuz within 4–5 days, rather than the proposed seven, if its conditions are met.\n\nAccording to Iranian state TV, Tehran is discussing a proposal involving the lifting of the US blockade",
+   "url": "https://x.com/DeItaone/status/2114808748380246193",
+   "posted_at": "2026-10-26T19:57:51.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 281034,
+   "likes": 1458,
+   "reposts": 142,
+   "text": "ANTHROPIC FILES FOR NASDAQ IPO, REVEALS $80.7 BILLION LOSS\n\nAnthropic has filed for a Nasdaq IPO under the proposed ticker $ANT, with Goldman Sachs and Morgan Stanley leading the offering.\n\nFirst-half 2026 revenue surged to $16.3B from $1.2B a year earlier, but the company",
+   "url": "https://x.com/DeItaone/status/2114705379141595318",
+   "posted_at": "2026-10-26T13:07:06.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 276124,
+   "likes": 2611,
+   "reposts": 157,
+   "text": "BREAKING: The Trump administration is reportedly preparing to restart aggressive collections efforts against defaulted student loan borrowers, per Forbes",
+   "url": "https://x.com/unusual_whales/status/2114822147998929042",
+   "posted_at": "2026-10-26T20:51:06.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 275793,
+   "likes": 5443,
+   "reposts": 543,
+   "text": "\"Google illegally cut down 250K trees in Finland for data center, driving wolves into villages and infuriating locals,\" per NYP",
+   "url": "https://x.com/unusual_whales/status/2114717936128868573",
+   "posted_at": "2026-10-26T13:57:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 271730,
+   "likes": 3348,
+   "reposts": 247,
+   "text": "Trump has said Norwegian immigrants are not welcome in the United States because the Nobel committee, based in the capital Oslo, has not awarded him a Peace Prize, per Reuters",
+   "url": "https://x.com/unusual_whales/status/2114828665796366414",
+   "posted_at": "2026-10-26T21:17:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@zerohedge",
+   "name": "zerohedge",
+   "views": 249957,
+   "likes": 988,
+   "reposts": 41,
+   "text": "ANTHROPIC: TO ISSUE SINGLE SHARE OF CLASS F COMMON STOCK TO LIMITED LIABILITY CO ORGANIZED BY CO-FOUNDERS, \"FOUNDER LLC\"\n\nANTHROPIC: OUR CLASS F COMMON STOCK WILL NOT HAVE ANY ECONOMIC RIGHTS\n\nANTHROPIC: CLASS F COMMON STOCK ENTITLED TO 50.1% OF TOTAL VOTING POWER",
+   "url": "https://x.com/zerohedge/status/2114707269355241559",
+   "posted_at": "2026-10-26T13:14:37.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 246842,
+   "likes": 2532,
+   "reposts": 189,
+   "text": "BREAKING: US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran \"within 96 hours of receiving\" an order from President Donald Trump, per CNN",
+   "url": "https://x.com/unusual_whales/status/2114788400444436625",
+   "posted_at": "2026-10-26T18:37:00.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 224764,
+   "likes": 1827,
+   "reposts": 205,
+   "text": "IRAN SUPREME LEADER CALLS FOR MEETING CONDITIONS TO END THE WAR",
+   "url": "https://x.com/DeItaone/status/2115030405124440541",
+   "posted_at": "2026-10-27T10:38:38.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 200239,
+   "likes": 2416,
+   "reposts": 197,
+   "text": "There’s a deep freeze paralyzing the U.S. labor market.\n\nUnemployment is still low at 4.2%. But the share of Americans who say jobs are hard to get is at a multi-year high of about 21%, and entry-level jobs in AI-exposed fields are drying up, per WSJ",
+   "url": "https://x.com/unusual_whales/status/2114707870243586546",
+   "posted_at": "2026-10-26T13:17:00.000Z",
+   "highlight": true
+  }
+ ],
+ "virals": [
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 9831538,
+   "text": "BREAKING: Microsoft, $MSFT, is offering buyouts to 60,000 workers as part of the company’s efforts to cut costs amid AI adoption, per Bloomberg.\n\nPersonnel on select teams in the US, Canada, India, and the UK at a vice president level and below will be eligible.\n\nThis reflects",
+   "url": "https://x.com/KobeissiLetter/status/2114745896315359305",
+   "posted_at": "2026-10-26T15:48:06.000Z"
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 2338660,
+   "text": "Only 2.2% of mortgaged homes are underwater, per Goldman Sachs.\n\nIn 2008, it was roughly 1 in 4.",
+   "url": "https://x.com/unusual_whales/status/2114697804555636839",
+   "posted_at": "2026-10-26T12:37:00.000Z"
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 1650076,
+   "text": "BREAKING: Brazil's stock market collapses nearly -30% and the Brazilian Real loses -10% after President Lula da Silva is unexpectedly re-elected.\n\nBrazil's stock market has lost over $200 billion of market cap today. https://t.co/XsHVYmepvV",
+   "url": "https://x.com/KobeissiLetter/status/2114716174764372298",
+   "posted_at": "2026-10-26T13:50:00.000Z"
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 1079375,
+   "text": "BREAKING: Flávio has reportedly been summoned by the Federal Police to surrender his passport",
+   "url": "https://x.com/unusual_whales/status/2114827348684185722",
+   "posted_at": "2026-10-26T21:11:46.000Z"
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 945082,
+   "text": "MICROSOFT TO OFFER BUYOUTS TO 60,000 WORKERS IN LATEST COST CUT",
+   "url": "https://x.com/DeItaone/status/2114741568816980101",
+   "posted_at": "2026-10-26T15:30:54.000Z"
   }
  ],
  "outsiders": [],
- "patterns": [],
- "no_hits": [],
- "virals_narrative": "Top 5 posts by views from the last 48h across the 16-account watchlist (last 10 originals per account, pulled Oct 25 10:47 PM CT).",
- "narrative_synthesis": "",
- "virals_window": "last ~48h",
+ "patterns": [
+  "Anthropic S-1 / $ANT IPO — 57 posts, ~9.9M combined views (biggest topic by count)",
+  "Microsoft 60,000-worker buyouts — #1 post of the day (9.83M views, KobeissiLetter)",
+  "Brazil post-election crash: stocks ~-30%, real -10%, 10Y ~16% — 22 posts, ~4.5M views",
+  "AI capex funding: Meta up to $95B stock offering, MSFT cost cuts, 'AI bubble burst in China'",
+  "Iran / Strait of Hormuz de-escalation headlines — 34 posts, ~2.7M views",
+  "Format: 'BREAKING:' lead — 21 posts, median ~308K views vs ~35K for everything else",
+  "Format: ALL-CAPS wire flash (*HEADLINE) from DeItaone/zerohedge — 1-line, no link",
+  "Format: numbered summary lists / '(a thread)' explainers on big filings and charts",
+  "Format: stat-vs-2008 comparisons (2.2% underwater vs ~1 in 4; 'China's 2008')",
+  "Timing: Mon 7-10 AM CT and 1-4 PM CT were the hottest windows; overnight wire flow medians ~20-35K"
+ ],
+ "no_hits": [
+  {
+   "handle": "@biancoresearch",
+   "reason": "No original posts returned for the last 24h window (since Oct 26 7:00 AM CT).",
+   "max_views": null
+  },
+  {
+   "handle": "@markets",
+   "reason": "API returned 0 original posts for the window (unusual for Bloomberg Markets; may be a data gap).",
+   "max_views": null
+  },
+  {
+   "handle": "@MacroAlf",
+   "reason": "No original posts returned for the last 24h window (since Oct 26 7:00 AM CT).",
+   "max_views": null
+  }
+ ],
+ "virals_narrative": "Top 5 originals by views from the last ~24h (since Oct 26 7:00 AM CT) across the 16-account watchlist, pulled Oct 27 7:07 AM CT.",
+ "narrative_synthesis": "464 originals cleared 5k views (451 at 10k+) out of 477 pulled. Two stories dominated: Microsoft's 60,000-worker buyout offer (9.83M views on KobeissiLetter alone) and Anthropic's S-1 (57 posts). Brazil's post-election crash was the macro story of the day; Iran/Hormuz and China weakness ran underneath. Coverage note: financialjuice timeline covered from Oct 26 11:41 PM CT and FirstSquawk from Oct 27 2:09 AM CT, plus a 25-post relevancy search over their Oct 26 US session, so their counts are lower bounds.",
+ "virals_window": "last ~24h",
  "virals_target": 5,
- "hits_count": 0,
+ "hits_count": 464,
  "outsiders_count": 5,
  "operator": {
   "handle": "@swiftmacro",
@@ -70,116 +443,160 @@
  "trend_input_only_posts": [],
  "watchlist_stats": [
   {
+   "handle": "@unusual_whales",
+   "posts": 65,
+   "median_views": 134373,
+   "max_views": 2338660,
+   "under_5k": 0
+  },
+  {
    "handle": "@DeItaone",
-   "posts": 10,
-   "median_views": 243891,
-   "max_views": 329066,
+   "posts": 72,
+   "median_views": 128552,
+   "max_views": 945082,
    "under_5k": 0
   },
   {
    "handle": "@KobeissiLetter",
-   "posts": 10,
-   "median_views": 194458,
-   "max_views": 874330,
-   "under_5k": 0
-  },
-  {
-   "handle": "@markets",
-   "posts": 1,
-   "median_views": 101332,
-   "max_views": 101332,
-   "under_5k": 0
-  },
-  {
-   "handle": "@NickTimiraos",
-   "posts": 10,
-   "median_views": 101285,
-   "max_views": 325963,
-   "under_5k": 0
-  },
-  {
-   "handle": "@MacroAlf",
-   "posts": 10,
-   "median_views": 88792,
-   "max_views": 381516,
-   "under_5k": 0
-  },
-  {
-   "handle": "@charliebilello",
-   "posts": 10,
-   "median_views": 70870,
-   "max_views": 155666,
-   "under_5k": 0
-  },
-  {
-   "handle": "@unusual_whales",
-   "posts": 10,
-   "median_views": 69295,
-   "max_views": 258345,
+   "posts": 20,
+   "median_views": 96824,
+   "max_views": 9831538,
    "under_5k": 0
   },
   {
    "handle": "@zerohedge",
-   "posts": 10,
-   "median_views": 62302,
-   "max_views": 120143,
+   "posts": 94,
+   "median_views": 77512,
+   "max_views": 482325,
    "under_5k": 0
   },
   {
    "handle": "@Barchart",
-   "posts": 10,
-   "median_views": 48636,
-   "max_views": 139500,
+   "posts": 6,
+   "median_views": 64240,
+   "max_views": 199011,
    "under_5k": 0
   },
   {
-   "handle": "@Schuldensuehner",
-   "posts": 10,
-   "median_views": 40228,
-   "max_views": 320610,
+   "handle": "@NickTimiraos",
+   "posts": 2,
+   "median_views": 63592,
+   "max_views": 98085,
    "under_5k": 0
   },
   {
-   "handle": "@biancoresearch",
-   "posts": 9,
-   "median_views": 34914,
-   "max_views": 82528,
-   "under_5k": 1
-  },
-  {
-   "handle": "@JavierBlas",
-   "posts": 10,
-   "median_views": 33595,
-   "max_views": 167263,
+   "handle": "@charliebilello",
+   "posts": 5,
+   "median_views": 33336,
+   "max_views": 51109,
    "under_5k": 0
   },
   {
    "handle": "@financialjuice",
-   "posts": 10,
-   "median_views": 27394,
-   "max_views": 29303,
+   "posts": 86,
+   "median_views": 31173,
+   "max_views": 83080,
    "under_5k": 0
   },
   {
-   "handle": "@LizAnnSonders",
-   "posts": 10,
-   "median_views": 17722,
-   "max_views": 25590,
+   "handle": "@Schuldensuehner",
+   "posts": 2,
+   "median_views": 22634,
+   "max_views": 26121,
+   "under_5k": 0
+  },
+  {
+   "handle": "@JavierBlas",
+   "posts": 4,
+   "median_views": 20702,
+   "max_views": 39964,
    "under_5k": 0
   },
   {
    "handle": "@FirstSquawk",
-   "posts": 10,
-   "median_views": 15509,
-   "max_views": 18434,
+   "posts": 88,
+   "median_views": 18544,
+   "max_views": 78025,
    "under_5k": 0
   },
   {
+   "handle": "@LizAnnSonders",
+   "posts": 15,
+   "median_views": 14802,
+   "max_views": 23651,
+   "under_5k": 7
+  },
+  {
    "handle": "@TheTranscript_",
-   "posts": 10,
-   "median_views": 6010,
-   "max_views": 12753,
-   "under_5k": 3
+   "posts": 18,
+   "median_views": 7363,
+   "max_views": 15979,
+   "under_5k": 6
+  },
+  {
+   "handle": "@biancoresearch",
+   "posts": 0,
+   "median_views": 0,
+   "max_views": 0,
+   "under_5k": 0
+  },
+  {
+   "handle": "@markets",
+   "posts": 0,
+   "median_views": 0,
+   "max_views": 0,
+   "under_5k": 0
+  },
+  {
+   "handle": "@MacroAlf",
+   "posts": 0,
+   "median_views": 0,
+   "max_views": 0,
+   "under_5k": 0
   }
- ]
+ ],
+ "trend_keywords": {
+  "keywords": [
+   {
+    "rank": 1,
+    "keyword": "Anthropic IPO / $ANT"
+   },
+   {
+    "rank": 2,
+    "keyword": "Microsoft buyouts"
+   },
+   {
+    "rank": 3,
+    "keyword": "Brazil / Lula"
+   },
+   {
+    "rank": 4,
+    "keyword": "AI capex funding"
+   },
+   {
+    "rank": 5,
+    "keyword": "Iran / Hormuz"
+   },
+   {
+    "rank": 6,
+    "keyword": "China property / stocks"
+   },
+   {
+    "rank": 7,
+    "keyword": "US housing freeze"
+   },
+   {
+    "rank": 8,
+    "keyword": "Fed decision Wednesday"
+   },
+   {
+    "rank": 9,
+    "keyword": "Meta $95B offering"
+   },
+   {
+    "rank": 10,
+    "keyword": "oil / Saudi exports"
+   }
+  ]
+ }
 }
