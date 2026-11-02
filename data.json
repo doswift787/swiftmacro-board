@@ -1,561 +1,587 @@
 {
- "title": "@swiftmacro watchlist digest — 2026-11-01",
- "date": "2026-11-01",
+ "title": "@swiftmacro watchlist digest — 2026-11-02",
+ "date": "2026-11-02",
  "timezone": "America/Chicago",
- "updated": "2026-11-01T07:20:00-06:00",
+ "updated": "2026-11-02T07:25:00-06:00",
  "brand_title": "swiftmacro Virality Board",
  "brand_handle": "@swiftmacro",
  "hits": [
   {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 1339900,
+   "likes": 5898,
+   "reposts": 498,
+   "text": "BREAKING: Israeli President Netanyahu is “pressing” President Trump to strike Iran immediately after US Midterm elections on Tuesday, per Axios.\n\nIsraeli sources reportedly said the call was \"tough,\" while US sources described it as \"direct.\"\n\nPresident Trump said the US still",
+   "url": "https://x.com/KobeissiLetter/status/2116975383077904829",
+   "posted_at": "2026-11-01T19:27:17.000Z",
+   "highlight": true
+  },
+  {
    "handle": "@unusual_whales",
    "name": "unusual_whales",
-   "views": 765505,
-   "likes": 3465,
-   "reposts": 242,
-   "text": "JUST IN: The U.S. Department of the Treasury has announced new rates for Series I bonds.\n\nNewly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield offered on purchases made through Oct. 31.",
-   "url": "https://x.com/unusual_whales/status/2116610657856393527",
-   "posted_at": "2026-10-31T19:18:00.000Z",
+   "views": 1260812,
+   "likes": 5661,
+   "reposts": 299,
+   "text": "BREAKING: Anthropic's Claude AI blocks video game cloning and reverse-engineering, per Toms Hardware",
+   "url": "https://x.com/unusual_whales/status/2116967982123630842",
+   "posted_at": "2026-11-01T18:57:52.000Z",
    "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 874135,
+   "likes": 9051,
+   "reposts": 776,
+   "text": "Canada’s housing crash is now approaching America’s 2008 bust, per BMO.\n\nCanadian home prices have fallen 20.5% nationally from their early-2022 peak, close to the 26% decline the US saw during the 2008 housing crash.",
+   "url": "https://x.com/unusual_whales/status/2117059364825493581",
+   "posted_at": "2026-11-02T01:01:00.000Z",
+   "highlight": true,
+   "draft_en": "Canadian home prices are down 20.5% from the 2022 peak, per BMO, close to the 26% US drop in 2008. Meanwhile 97% of US mortgage holders have a rate below today's market.\n\nOne market is clearing through price. The other is frozen by rate lock-in.",
+   "video_tip": "Side-by-side line chart: Canada home price index vs US 2006-2011, then a '97%' lock-in stat card; 20s.",
+   "draft_keywords": [
+    "Canada housing",
+    "mortgage lock-in",
+    "BMO"
+   ],
+   "why_hit": "Housing had the best median of any topic (~190K across 5 hits); Canada vs 2008 did 874K on unusual_whales."
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 847444,
+   "likes": 5346,
+   "reposts": 405,
+   "text": "BREAKING: \"Under pressure from Israeli prime minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran. The target would be Pickax Mountain in central Iran, where Israeli intelligence claims the Iranian government has restarted",
+   "url": "https://x.com/unusual_whales/status/2117101618562994674",
+   "posted_at": "2026-11-02T03:48:54.000Z",
+   "highlight": true
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 433819,
+   "likes": 1427,
+   "reposts": 78,
+   "text": "\"Capitalism needs a newer pitch as socialism gains ground,\" per FOX",
+   "url": "https://x.com/unusual_whales/status/2117074464215359506",
+   "posted_at": "2026-11-02T02:01:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 343623,
+   "likes": 1772,
+   "reposts": 179,
+   "text": "The wealth gap between old and young Americans is now enormous.\n\nMedian household net worth by age, per the Federal Reserve’s 2025 Survey of Consumer Finances:\n\nUnder 35: $33,000\n35–44: $155,600\n45–54: $253,700\n55–64: $411,900\n65–74: $431,300\n75+: $504,900\n\nThe typical household",
+   "url": "https://x.com/unusual_whales/status/2116998966764318891",
+   "posted_at": "2026-11-01T21:01:00.000Z",
+   "highlight": false
   },
   {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 667966,
-   "likes": 7970,
-   "reposts": 645,
-   "text": "BREAKING: The FBI announces that North Korea was behind the $6.3 billion hack of Binance, now the largest hack in history.\n\nNorth Korean hackers were previously accused by the FBI of some of the biggest crypto hacks.\n\nThis includes the $1.5 billion Bybit attack last year and the",
-   "url": "https://x.com/KobeissiLetter/status/2116669713430282667",
-   "posted_at": "2026-10-31T23:12:40.000Z",
-   "highlight": true,
-   "draft_en": "The FBI says North Korea ran the $6.3 billion Binance hack, the largest in history. Binance says 90% is already replenished and withdrawals restarted today.\n\nThe biggest exchange in crypto just showed it can eat a loss bigger than most banks' annual profit, and the market barely flinched.",
-   "video_tip": "Timeline graphic: hack, '90% replenished', FBI names North Korea, withdrawals reopen; 15s with captions.",
-   "why_hit": "Attribution twist on the week's biggest story; 668K views on Kobeissi, and Binance/crypto posts totaled ~2.3M views across 15 hits.",
+   "views": 302362,
+   "likes": 2149,
+   "reposts": 314,
+   "text": "Key Events This Week:\n\n1. October ISM Manufacturing PMI data - Monday\n\n2. Apple, $AAPL, and Palantir, $PLTR, Report Earnings - Monday\n\n3. US Midterm Elections - Tuesday\n\n4. September JOLTS Job Openings data - Tuesday\n\n5. AMD, $AMD, and SMCI, $SMCI, Report Earnings - Tuesday\n\n6.",
+   "url": "https://x.com/KobeissiLetter/status/2116885664780231025",
+   "posted_at": "2026-11-01T13:30:46.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 280834,
+   "likes": 3603,
+   "reposts": 300,
+   "text": "71% of Americans opposed the construction of a data center in their local area, per Gallup.",
+   "url": "https://x.com/unusual_whales/status/2117029165778051199",
+   "posted_at": "2026-11-01T23:01:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 241915,
+   "likes": 3929,
+   "reposts": 432,
+   "text": "BREAKING: US oil prices drop below $100/barrel after US Secretary of State Marco Rubio says that President Trump prefers not to use military force and would like to resolve the Iran War “diplomatically.” https://t.co/DsjSh8Xwtw",
+   "url": "https://x.com/KobeissiLetter/status/2117221833326166414",
+   "posted_at": "2026-11-02T11:46:35.000Z",
+   "highlight": false,
+   "draft_en": "Rubio says Trump would rather settle Iran diplomatically, and WTI fell below $100 within the hour. China and Oman just issued a communique that hardens against Iran on Hormuz too.\n\nTehran is running out of friends and leverage at the same time, and the midterms are tomorrow.",
+   "video_tip": "Split screen: WTI 1-day chart crossing $100 next to the Rubio quote; 15s, captions only.",
    "draft_keywords": [
-    "Binance hack",
-    "North Korea",
-    "withdrawals"
-   ]
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 664558,
-   "likes": 4225,
-   "reposts": 646,
-   "text": "The poorest Americans lose and the richest gain under Trump’s “Big Beautiful Bill,” per the Congressional Budget Office.\n\nAverage yearly change in household resources, 2026–2034:\n\nPoorest 10%: -$1,214 (about 3% of income)\nRichest 10%: +$13,622 (about 2.7% of income)",
-   "url": "https://x.com/unusual_whales/status/2116576181117919562",
-   "posted_at": "2026-10-31T17:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 660626,
-   "likes": 9752,
-   "reposts": 769,
-   "text": "BREAKING: Judge orders Trump administration to stop threatening US election officials, per BBC",
-   "url": "https://x.com/unusual_whales/status/2116721982595338428",
-   "posted_at": "2026-11-01T02:40:22.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 599415,
-   "likes": 1817,
-   "reposts": 91,
-   "text": "Share of Americans who say they’re on track for retirement, per Goldman Sachs:\n\nGen Z: 66%\nMillennials: 61%\nBoomers: 60%\nGen X: 49%\n\nGen X is the only generation where fewer than half feel on track.",
-   "url": "https://x.com/unusual_whales/status/2116636578881962248",
-   "posted_at": "2026-10-31T21:01:00.000Z",
-   "highlight": true
+    "Iran diplomacy",
+    "WTI below $100",
+    "Hormuz"
+   ],
+   "why_hit": "Oil/Iran de-escalation headline; 242K on Kobeissi while Iran/Israel/Hormuz posts totaled ~3.9M views."
   },
   {
    "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 495148,
-   "likes": 1774,
-   "reposts": 106,
-   "text": "BINANCE ON HACK -  90% OF STOLEN ASSETS REPLENISHED",
-   "url": "https://x.com/DeItaone/status/2116540319122518312",
-   "posted_at": "2026-10-31T14:38:30.000Z",
-   "highlight": true
+   "name": "*Walter Bloomberg",
+   "views": 232669,
+   "likes": 1000,
+   "reposts": 111,
+   "text": "BINANCE SEES $3.5 BILLION IN OUTFLOWS AFTER RECORD $6.3 BILLION HACK\n\nBinance recorded more than $3.5 billion in net outflows Sunday, according to DefiLlama, after resuming withdrawals following a $6.3 billion cryptocurrency theft.\n\nThe exchange says it has replaced 95% of stolen",
+   "url": "https://x.com/DeItaone/status/2116925997693935981",
+   "posted_at": "2026-11-01T16:11:03.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 231157,
+   "likes": 1151,
+   "reposts": 99,
+   "text": "IRAN'S FOREIGN MINISTER ARAQCHI ON TALKS WITH QATARI MEDIATORS: NEGOTIATIONS ARE ONGOING AND PROGRESSING, BUT WE HAVE NOT YET REACHED A DEFINITIVE CONCLUSION",
+   "url": "https://x.com/DeItaone/status/2116881976581927337",
+   "posted_at": "2026-11-01T13:16:07.000Z",
+   "highlight": false
   },
   {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 494248,
-   "likes": 3997,
-   "reposts": 329,
-   "text": "BREAKING: President Trump spoke with Israeli Prime Minister Netanyahu today as the US prepares to resume bombing Iran, per WSJ.\n\nThe Trump Administration has also warned Arab Gulf states to prepare for a \"short and intense\" military campaign after the November 3rd Midterm",
-   "url": "https://x.com/KobeissiLetter/status/2116687632826605694",
-   "posted_at": "2026-11-01T00:23:52.000Z",
-   "highlight": true,
-   "draft_en": "Washington is telling Gulf allies to prepare for a short, intense campaign after Tuesday's midterms, per WSJ. Iran's negotiators are in Doha for a third straight day with Qatari mediators.\n\nThe side that keeps coming back to the table is the side running out of time.",
-   "video_tip": "10s text-only: Kobeissi WSJ flash ('short and intense' after Nov 3), cut to 'Iran negotiators in Doha, day 3'; hold on the last line.",
-   "why_hit": "BREAKING plus WSJ sourcing plus a date (after the Nov 3 midterm) gave a clear clock; 494K views, and Iran/Gulf posts totaled ~3.2M views across 37 hits.",
-   "draft_keywords": [
-    "Iran",
-    "midterms",
-    "Doha talks"
-   ]
+   "views": 227189,
+   "likes": 1576,
+   "reposts": 169,
+   "text": "BREAKING: The largest US physical-gold backed ETF, $GLD, recorded -$1.8 billion in outflows in October, its biggest monthly withdrawal since June.\n\nThis also marks its 3rd-largest monthly outflow since February 2024.\n\nYear-to-date, $GLD has seen -$3.8 billion in withdrawals, https://t.co/o2JZH8Vy2u",
+   "url": "https://x.com/KobeissiLetter/status/2116930768136245591",
+   "posted_at": "2026-11-01T16:30:00.000Z",
+   "highlight": false
   },
   {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 476538,
-   "likes": 3309,
-   "reposts": 336,
-   "text": "The \"stealth\" bear market is in full-swing.\n\nWhile the Nasdaq 100 erased -$4 trillion in 25 days, the \"S&amp;P 500 Excluding AI\" hit a RECORD high on Friday.\n\nAI stocks fell over -13% in October while the S&amp;P 500 Excluding AI gained+8%.\n\nWhat's happening? Let us explain.\n\n(a thread) https://t.co/4O0vqjjnLd",
-   "url": "https://x.com/KobeissiLetter/status/2116567209367445876",
-   "posted_at": "2026-10-31T16:25:21.000Z",
-   "highlight": true,
-   "draft_en": "The Nasdaq 100 lost $4 trillion in 25 days. The S&P 500 excluding AI closed Friday at a record high.\n\nThe money rotated instead of leaving. Midterms are Tuesday, and stocks have historically done well in the months after, whoever wins.",
-   "video_tip": "Two-line chart: Nasdaq 100 vs S&P 500 ex-AI over October, then a midterm-calendar card; 20s voiceover.",
-   "why_hit": "Counterintuitive pair of numbers (index pain vs ex-AI record) in a thread; 477K views on Kobeissi and 17K on Schuldensuehner's version of the same stat.",
+   "views": 222081,
+   "likes": 2089,
+   "reposts": 307,
+   "text": "AI is burning Big Tech's free cash flow:\n\nThe combined CapEx of Amazon, $AMZN, Alphabet, $GOOGL, Meta, $META, and Microsoft, $MSFT, rose +$36.9 billion in Q3 2026, to a record $201.9 billion.\n\nThis figure has more than doubled over the last 12 months and is up +356% since Q1 https://t.co/1bDyyin35Y",
+   "url": "https://x.com/KobeissiLetter/status/2116900354717589597",
+   "posted_at": "2026-11-01T14:29:09.000Z",
+   "highlight": false,
+   "draft_en": "Big Tech capex hit a record $201.9 billion in Q3. Gallup says 71% of Americans oppose a data center in their own area.\n\nThe AI bottleneck is shifting from chips to permits, power lines and electricians.",
+   "video_tip": "Two numbers on screen, $201.9B and 71%, then b-roll of transmission lines and a construction crew; 15s.",
    "draft_keywords": [
-    "S&P 500 ex-AI",
-    "rotation",
-    "midterms"
-   ]
+    "AI capex",
+    "data centers",
+    "power grid"
+   ],
+   "why_hit": "AI/tech capex posts totaled ~2.9M views; Kobeissi's capex chart did 222K and Gallup's data-center poll 281K on unusual_whales."
   },
   {
    "handle": "@unusual_whales",
    "name": "unusual_whales",
-   "views": 366402,
-   "likes": 2351,
-   "reposts": 166,
-   "text": "Nearly 90% of CEOs say they’re confident their employees trust them.\n\nOnly 46% of employees actually do, per Boston Consulting Group’s new CEO Insomnia Index.",
-   "url": "https://x.com/unusual_whales/status/2116696976972804386",
-   "posted_at": "2026-11-01T01:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 214538,
-   "likes": 1200,
-   "reposts": 38,
-   "text": "\"Palantir, $PLTR, has spent years selling governments and companies its data analytics. In South Korea, it’s also selling $170 windbreakers, and they are flying off the shelves,\" per Bloomberg.",
-   "url": "https://x.com/unusual_whales/status/2116530882744066491",
-   "posted_at": "2026-10-31T14:01:00.000Z",
-   "highlight": true
+   "views": 218487,
+   "likes": 1813,
+   "reposts": 115,
+   "text": "American voters across the political spectrum now assume most top tech CEOs are conservative, per POLITICO\n\nMost voters also believe that tech is the biggest financial backer of the Republican Party",
+   "url": "https://x.com/unusual_whales/status/2116968767725170761",
+   "posted_at": "2026-11-01T19:01:00.000Z",
+   "highlight": false
   },
   {
    "handle": "@zerohedge",
    "name": "zerohedge",
-   "views": 212380,
-   "likes": 1757,
-   "reposts": 231,
-   "text": "BORSA ISTANBUL CEO DETAINED ON BRIBERY CLAIMS IN FUND PROBE: AA",
-   "url": "https://x.com/zerohedge/status/2116606979682738274",
-   "posted_at": "2026-10-31T19:03:23.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 207919,
-   "likes": 628,
-   "reposts": 58,
-   "text": "RUSSIA'S FSB: INFORMATION HAS BEEN RECEIVED FROM US REGARDING PLANS FOR A TERRORIST ATTACK IN MOSCOW",
-   "url": "https://x.com/DeItaone/status/2116547049764380766",
-   "posted_at": "2026-10-31T15:05:14.000Z",
-   "highlight": true
+   "views": 199364,
+   "likes": 1529,
+   "reposts": 292,
+   "text": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies? https://t.co/8ZYoEfsFbq",
+   "url": "https://x.com/zerohedge/status/2117109553481253238",
+   "posted_at": "2026-11-02T04:20:26.000Z",
+   "highlight": false
   },
   {
    "handle": "@unusual_whales",
    "name": "unusual_whales",
-   "views": 207116,
-   "likes": 3663,
-   "reposts": 357,
-   "text": "JUST IN: A US judge has blocked the Trump administration from threatening state or local election officials with prosecution over their processing of election ballots, per WaPo",
-   "url": "https://x.com/unusual_whales/status/2116601546670759966",
-   "posted_at": "2026-10-31T18:41:47.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 198971,
-   "likes": 3176,
-   "reposts": 303,
-   "text": "\"When voters headed to the polls nearly two years ago, Donald Trump promised them cheaper groceries, gas below $2 a gallon and a wave of new manufacturing jobs.  \n\nThey elected him president, and got the opposite, a NBC News analysis finds.\"",
-   "url": "https://x.com/unusual_whales/status/2116666778495438891",
-   "posted_at": "2026-10-31T23:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 197760,
-   "likes": 1217,
-   "reposts": 86,
-   "text": "AI companies are turning to religion to help teach chatbots right from wrong, per AP.\n\nAnthropic says it has met with scholars, clergy, philosophers and ethicists from more than 15 religious and cross-cultural groups to help shape how Claude handles moral questions.",
-   "url": "https://x.com/unusual_whales/status/2116681877788778587",
-   "posted_at": "2026-11-01T00:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 195776,
-   "likes": 1362,
-   "reposts": 76,
-   "text": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-   "url": "https://x.com/unusual_whales/status/2116603414977372240",
-   "posted_at": "2026-10-31T18:49:13.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@zerohedge",
-   "name": "zerohedge",
-   "views": 191520,
-   "likes": 6068,
-   "reposts": 593,
-   "text": "https://t.co/UcPgDoYzCc https://t.co/PONm7dWhc1",
-   "url": "https://x.com/zerohedge/status/2116684188204384758",
-   "posted_at": "2026-11-01T00:10:11.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 190329,
-   "likes": 891,
-   "reposts": 39,
-   "text": "\"The ultrawealthy worry wealth will dull their heirs’ ‘drive and desire’ and so some aren’t telling them how much there is,\" per FORTUNE\n\n61% of Americans with more than $25 million in investable assets say they’re concerned about their children’s motivation, per a Bank of",
-   "url": "https://x.com/unusual_whales/status/2116651678694871105",
-   "posted_at": "2026-10-31T22:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 189133,
-   "likes": 534,
-   "reposts": 48,
-   "text": "IRAN'S ARAQCHI TO AL JAZEERA: REOPENING STRAIT OF HORMUZ ON TEHRAN'S TERMS WOULD PAVE WAY FOR RESUMPTION OF TALKS WITH WASHINGTON",
-   "url": "https://x.com/DeItaone/status/2116520181929275549",
-   "posted_at": "2026-10-31T13:18:29.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 179505,
-   "likes": 551,
-   "reposts": 46,
-   "text": "IRAN'S SECURITY CHIEF REZAEI: NO NEW DECISION HAS BEEN MADE ON CHANGING OUR NUCLEAR DOCTRINE, BUT THERE IS DEBATE OVER WHETHER WE SHOULD KEEP THE SAME DOCTRINE IF WAR BREAKS OUT AGAIN",
-   "url": "https://x.com/DeItaone/status/2116590373690650926",
-   "posted_at": "2026-10-31T17:57:24.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 177133,
-   "likes": 937,
-   "reposts": 47,
-   "text": "BRAEKING: OpenAI’s latest funding round values the ChatGPT maker at $1.25 trillion, short of the $1.4 trillion it had been targeting.\n\nThe company had been seeking $30 billion at that higher valuation. OpenAI says it’s at $50 billion in annualized revenue and aiming for $70",
-   "url": "https://x.com/unusual_whales/status/2116595662779462054",
-   "posted_at": "2026-10-31T18:18:25.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 167391,
-   "likes": 1173,
-   "reposts": 66,
-   "text": "BINANCE:  ALL BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, AND ZEC ARE FULLY BACKED 100%",
-   "url": "https://x.com/DeItaone/status/2116540472860536989",
-   "posted_at": "2026-10-31T14:39:06.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 166903,
-   "likes": 374,
-   "reposts": 28,
-   "text": "Halloween spending is expected to be an average $115.14 per person, YF",
-   "url": "https://x.com/unusual_whales/status/2116545982469214695",
-   "posted_at": "2026-10-31T15:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 161219,
-   "likes": 1369,
-   "reposts": 249,
-   "text": "44% of US adults struggled to afford at least one basic necessity in the past year, per Pew Research Center.\n\nAmong lower-income adults, it’s 71%.\n\nIn the past year, Americans said they:\n\nHad trouble paying for medical care: 28%\nHad problems paying for daily transportation: 22%",
-   "url": "https://x.com/unusual_whales/status/2116561081783259363",
-   "posted_at": "2026-10-31T16:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 159911,
-   "likes": 564,
-   "reposts": 51,
-   "text": "IRAN'S NAVY SAYS OIL TANKER CATCHES FIRE IN STRAIT OF HORMUZ AFTER COLLIDING WITH NAVAL MINES - STATE MEDIA",
-   "url": "https://x.com/DeItaone/status/2116577236967199066",
-   "posted_at": "2026-10-31T17:05:12.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 159164,
-   "likes": 809,
-   "reposts": 60,
-   "text": "57% of Gen X say their main job is financially stable, the lowest of any generation, and 57% have taken on work outside their main job, mostly because they need the money, per Goldman Sachs.",
-   "url": "https://x.com/unusual_whales/status/2116621479269871910",
-   "posted_at": "2026-10-31T20:01:00.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@KobeissiLetter",
-   "name": "The Kobeissi Letter",
-   "views": 158458,
-   "likes": 935,
-   "reposts": 129,
-   "text": "US companies are facing a massive debt maturity wall:\n\n~$1.9 trillion in US speculative-grade corporate bonds and loans mature over the next 5 years, including $438 billion due by the end of 2028.\n\nBy comparison, in 2020, 2021, and 2022, this figure ranged from $1.4 trillion to https://t.co/KoqCURcgu9",
-   "url": "https://x.com/KobeissiLetter/status/2116647408465563761",
-   "posted_at": "2026-10-31T21:44:02.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 157239,
+   "views": 190075,
    "likes": 1466,
-   "reposts": 209,
-   "text": "Americans’ paychecks have been losing to inflation for about six months straight.\n\nReal average hourly earnings, which adjust pay for inflation, have fallen year over year every month since April, per the Bureau of Labor Statistics.\n\nIn September, prices rose 3.7% from a year",
-   "url": "https://x.com/unusual_whales/status/2116591280675582063",
-   "posted_at": "2026-10-31T18:01:00.000Z",
-   "highlight": true
+   "reposts": 153,
+   "text": "44% of US homes for sale now have a price cut, per Parcel.\n\nIt’s the latest sign of a buyer’s market: sellers outnumber buyers by 63%, the biggest gap since the post-2008 housing crash, per Redfin, and existing home sales are running near their slowest pace in decades.",
+   "url": "https://x.com/unusual_whales/status/2117014066535542995",
+   "posted_at": "2026-11-01T22:01:00.000Z",
+   "highlight": false
   },
   {
    "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 157099,
-   "likes": 662,
-   "reposts": 62,
-   "text": "IRAN'S FM TO AL JAZEERA: TEHRAN TO DECIDE WHETHER TALKS WITH WASHINGTON ARE DIRECT OR INDIRECT AFTER US ACCEPTS ITS CONDITIONS",
-   "url": "https://x.com/DeItaone/status/2116518332568347132",
-   "posted_at": "2026-10-31T13:11:08.000Z",
-   "highlight": true
+   "name": "*Walter Bloomberg",
+   "views": 178810,
+   "likes": 1237,
+   "reposts": 95,
+   "text": "TRUMP: I WILL VETO EVERYTHING IF DEMOCRATS WIN IN MIDTERMS",
+   "url": "https://x.com/DeItaone/status/2117214857715933681",
+   "posted_at": "2026-11-02T11:18:52.000Z",
+   "highlight": false
   },
   {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 150177,
-   "likes": 498,
-   "reposts": 29,
-   "text": "IRAN'S FM TO AL JAZEERA: IRANIAN PLAN IS ONLY PROPOSAL CURRENTLY ON TABLE TO REOPEN STRAIT OF HORMUZ",
-   "url": "https://x.com/DeItaone/status/2116518578719756498",
-   "posted_at": "2026-10-31T13:12:06.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 150049,
-   "likes": 425,
-   "reposts": 23,
-   "text": "IRAN'S SECURITY CHIEF REZAEI TO STATE TV: WE SERIOUSLY FOLLOW DIPLOMACY BUT WILL NOT ABANDON IRANIAN PEOPLE'S RIGHTS",
-   "url": "https://x.com/DeItaone/status/2116604521887465554",
-   "posted_at": "2026-10-31T18:53:37.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@KobeissiLetter",
-   "name": "The Kobeissi Letter",
-   "views": 147213,
-   "likes": 684,
-   "reposts": 66,
-   "text": "BREAKING: The US personal savings rate fell -0.2 percentage points in September, to 4.2%, its lowest level since October 2022.\n\nSince January 2024, this metric has declined -3.4 percentage points.\n\nThe personal savings rate is now well below the 5-year pre-pandemic average of https://t.co/IYJoCvayDC",
-   "url": "https://x.com/KobeissiLetter/status/2116630555135517067",
-   "posted_at": "2026-10-31T20:37:04.000Z",
-   "highlight": true,
-   "draft_en": "The personal savings rate fell to 4.2%, the lowest since October 2022. Real hourly earnings have been down year over year every month since April.\n\nThe consumer is still spending. It is spending the cushion.",
-   "video_tip": "15s stacked stats: 4.2% savings rate, then 'real pay down since April'; end card 'Spending the cushion.'",
-   "why_hit": "Household-finance stats were the highest-median topic of the day (~3.2M views across 11 hits, median ~161K); Kobeissi's savings flash drew 147K and the real-wages post 157K.",
-   "draft_keywords": [
-    "savings rate",
-    "real wages",
-    "consumer"
-   ]
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 147167,
-   "likes": 355,
-   "reposts": 34,
-   "text": "IRAN'S FM TO AL JAZEERA: TEHRAN DEMANDS RECOGNITION OF NEW SHIPPING ROUTE AGREED WITH OMAN IN STRAIT OF HORMUZ, CLOSURE OF OTHER ROUTES",
-   "url": "https://x.com/DeItaone/status/2116518952872599599",
-   "posted_at": "2026-10-31T13:13:36.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 145024,
-   "likes": 413,
-   "reposts": 29,
-   "text": "BINANCE ON HACK: WE REMAIN ON TRACK TO REOPEN WITHDRAWALS WITHIN OUR PREVIOUSLY STATED TIMEFRAME (ON SUNDAY, 2026-11-01)",
-   "url": "https://x.com/DeItaone/status/2116540825853472908",
-   "posted_at": "2026-10-31T14:40:30.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@zerohedge",
-   "name": "zerohedge",
-   "views": 143365,
-   "likes": 1163,
-   "reposts": 188,
-   "text": "First Doomsday Warnings, Then Poland Crisis, Iran's \"No Limits\" Threat, &amp; Now \"Mass Casualty\" Risk In Moscow https://t.co/Q25y2SIhbq",
-   "url": "https://x.com/zerohedge/status/2116696836983460139",
-   "posted_at": "2026-11-01T01:00:26.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 141841,
-   "likes": 260,
-   "reposts": 22,
-   "text": "IRAN'S ARAQCHI TO AL JAZEERA: OUR CONDITIONS INCLUDE LIFTING SANCTIONS IMPOSED AFTER ISLAMABAD MOU, REDUCING US FORCES IN REGION",
-   "url": "https://x.com/DeItaone/status/2116518819459961139",
-   "posted_at": "2026-10-31T13:13:04.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@DeItaone",
-   "name": "DeItaone",
-   "views": 139918,
-   "likes": 469,
-   "reposts": 35,
-   "text": "BINANCE ON HACK: WILL ABSORB THE FINANCIAL IMPACT OF THESE STOLEN FUNDS, NOT OUR USERS",
-   "url": "https://x.com/DeItaone/status/2116540573742170236",
-   "posted_at": "2026-10-31T14:39:30.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@KobeissiLetter",
-   "name": "The Kobeissi Letter",
-   "views": 139492,
-   "likes": 593,
-   "reposts": 50,
-   "text": "It has been an exceptionally volatile earnings season:\n\nInformation Technology stocks fell -1.2% on average in October on the first trading day after reporting earnings, the weakest performance among all sectors.\n\nThis was followed by Energy and Consumer Staples, with average https://t.co/iWXFSDK8nh",
-   "url": "https://x.com/KobeissiLetter/status/2116542276738355535",
-   "posted_at": "2026-10-31T14:46:16.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@KobeissiLetter",
-   "name": "The Kobeissi Letter",
-   "views": 136340,
-   "likes": 704,
-   "reposts": 75,
-   "text": "US corporate debt issuance is skyrocketing:\n\nUS investment-grade corporate bond sales are expected to rise +$37 billion YoY in November, or +27%, to $175 billion, the highest for any November on record.\n\nThis would mark a +$76 billion, or +77%, increase from November 2024 level. https://t.co/ZC7Fn7OETM",
-   "url": "https://x.com/KobeissiLetter/status/2116614948071539134",
-   "posted_at": "2026-10-31T19:35:03.000Z",
-   "highlight": true
-  },
-  {
-   "handle": "@zerohedge",
-   "name": "zerohedge",
-   "views": 129149,
-   "likes": 263,
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 178263,
+   "likes": 753,
    "reposts": 28,
-   "text": "And The Winner For Poorest Big City In America Is... https://t.co/J3qWR6l4lK",
-   "url": "https://x.com/zerohedge/status/2116660347079680431",
-   "posted_at": "2026-10-31T22:35:27.000Z",
-   "highlight": true
+   "text": "Trump said it was 'unacceptable' for one of his former lawyers, Alina Habba Mildon, to secure a $50 million contract for herself while working at the US Department of Justice, per Reuters",
+   "url": "https://x.com/unusual_whales/status/2117121174375416047",
+   "posted_at": "2026-11-02T05:06:36.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@biancoresearch",
+   "name": "Jim Bianco",
+   "views": 176365,
+   "likes": 1186,
+   "reposts": 99,
+   "text": "Where the stock market stands after Friday. https://t.co/W1xlMBPC8L",
+   "url": "https://x.com/biancoresearch/status/2116887789790982346",
+   "posted_at": "2026-11-01T13:39:13.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 172542,
+   "likes": 573,
+   "reposts": 28,
+   "text": "TRUMP ON CANADA: WE HAVE THE CONCEPT OF A VERY GOOD DEAL",
+   "url": "https://x.com/DeItaone/status/2116993018268197169",
+   "posted_at": "2026-11-01T20:37:22.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 172470,
+   "likes": 819,
+   "reposts": 89,
+   "text": "BREAKING: The S&amp;P 500 Equal-Weight Index outperformed the S&amp;P 500 by +5.7 percentage points in October, its largest monthly outperformance since April 2009.\n\nThis also marked its 2nd-largest monthly outperformance since the 1990s.\n\nThe Equal-Weight Index surged +4.8% in October, https://t.co/w8f8u1d7Y7 https://t.co/XJ6mRNBJeS",
+   "url": "https://x.com/KobeissiLetter/status/2116916423138132362",
+   "posted_at": "2026-11-01T15:33:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 166814,
+   "likes": 546,
+   "reposts": 39,
+   "text": "TWO OIL TANKERS HIT MINES WHILE TRAVELING ALONG 'UNAUTHORIZED ROUTE' IN STRAIT OF HORMUZ - IRAN'S STATE MEDIA",
+   "url": "https://x.com/DeItaone/status/2116985225024504163",
+   "posted_at": "2026-11-01T20:06:23.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 163111,
+   "likes": 1214,
+   "reposts": 141,
+   "text": "The global copper market is extremely tight:\n\nChina's copper import premium over London Metal Exchange (LME) prices has surpassed $200 per ton, the largest premium on record.\n\nThe Yangshan premium, named after a Shanghai port that serves as a major hub for Chinese copper imports, https://t.co/wPfzbTxtW5",
+   "url": "https://x.com/KobeissiLetter/status/2117049594194378850",
+   "posted_at": "2026-11-02T00:22:10.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 162112,
+   "likes": 1146,
+   "reposts": 178,
+   "text": "US healthcare costs are rising at an alarming rate:\n\nMedical care prices have surged +132% since 2000, the largest increase among major consumer spending categories.\n\nOver the same period, shelter costs have risen +127%, while food prices have soared +112%.\n\nPrice increases https://t.co/8K14sHxgOZ",
+   "url": "https://x.com/KobeissiLetter/status/2117106764550214038",
+   "posted_at": "2026-11-02T04:09:21.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 158615,
+   "likes": 792,
+   "reposts": 94,
+   "text": "BREAKING: The US goods trade deficit widened by -$2.8 billion in September, or -2.1%, to -$134.9 billion, its widest gap since March 2025.\n\nImports rose +$8.1 billion, or +2.4%, to a record $344.2 billion.\n\nThis jump was led by a +7.5% MoM increase in capital goods, which include https://t.co/tiY9WpeZBa",
+   "url": "https://x.com/KobeissiLetter/status/2116947211917402215",
+   "posted_at": "2026-11-01T17:35:20.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 153757,
+   "likes": 781,
+   "reposts": 84,
+   "text": "AI spending is rapidly accelerating in the US.\n\nUS private fixed investment in information processing equipment and software grew at an annualized rate of +7.3% in Q3 2026, to a record $1.77 trillion.\n\nThis marks the largest quarterly increase since Q4 1983.\n\nBy comparison, at https://t.co/yQupgBDjIZ",
+   "url": "https://x.com/KobeissiLetter/status/2116996835621621916",
+   "posted_at": "2026-11-01T20:52:32.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 149273,
+   "likes": 739,
+   "reposts": 80,
+   "text": "BREAKING: South Korea’s economy grew +1.0% QoQ in Q3 2026, marking its 3rd consecutive quarterly expansion, beating expectations of +0.8%.\n\nExports were the main driver, rising +2.3% on stronger semiconductor, machinery and electrical equipment shipments.\n\nFacility investment https://t.co/GYHsF9B81T",
+   "url": "https://x.com/KobeissiLetter/status/2117024379481509961",
+   "posted_at": "2026-11-01T22:41:59.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 143039,
+   "likes": 642,
+   "reposts": 56,
+   "text": "BREAKING: US retirement assets surged +$3.8 trillion in Q2 2026, or +7.9%, to a record $51.2 trillion.\n\nThe increase was led by assets in individual retirement accounts (IRAs), which jumped +$1.7 trillion, or +9.2%, to $19.9 trillion, an all-time high.\n\nDefined contribution (DC) https://t.co/IebefShFgs",
+   "url": "https://x.com/KobeissiLetter/status/2117067082130977146",
+   "posted_at": "2026-11-02T01:31:40.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "views": 130610,
+   "likes": 129,
+   "reposts": 8,
+   "text": "The Kobeissi Letter for the week of November 2nd has been published and may be viewed through the link below:\n\nhttps://t.co/9c65UCfNau\n\nThe Chart of the Week for the week of November 2nd has been published. View or sign up for FREE through the link below:\n\nhttps://t.co/lFT7Stj4p1",
+   "url": "https://x.com/KobeissiLetter/status/2116976067093336275",
+   "posted_at": "2026-11-01T19:30:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 130436,
+   "likes": 1068,
+   "reposts": 74,
+   "text": "TRUMP: HAVE TO PROTECT MUSK IF SPACEX AT RISK FROM DEMOCRATS",
+   "url": "https://x.com/DeItaone/status/2117217703484166393",
+   "posted_at": "2026-11-02T11:30:11.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 125542,
+   "likes": 101,
+   "reposts": 9,
+   "text": "One of the most powerful tools for an options trader is the market tide.\n\nYou can see it on Unusual Whales.\n\nCheck out how to use it below.\n\nSee more: https://t.co/yUMTadBx7w https://t.co/Xs64kH49GW",
+   "url": "https://x.com/unusual_whales/status/2116976319158534625",
+   "posted_at": "2026-11-01T19:31:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 125450,
+   "likes": 320,
+   "reposts": 49,
+   "text": "Congress' productivity continues to dwindle, per PEW: https://t.co/7KhHmaWN3z",
+   "url": "https://x.com/unusual_whales/status/2117044265268179034",
+   "posted_at": "2026-11-02T00:01:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@zerohedge",
+   "name": "zerohedge",
+   "views": 122787,
+   "likes": 205,
+   "reposts": 11,
+   "text": "*UKMTO: INCIDENT REPORT 72NM EAST OF RAS AL KHAFJI, SAUDI ARABIA",
+   "url": "https://x.com/zerohedge/status/2117080755570434425",
+   "posted_at": "2026-11-02T02:26:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 113663,
+   "likes": 36,
+   "reposts": 3,
+   "text": "Listen to this.\n\n@DivesTech, on the Unusual Whales podcast, Unusual Bets, says you should learn AI before it takes your job.\n\nListen to the whole thing wherever you listen to podcasts. https://t.co/L976ay7tzv",
+   "url": "https://x.com/unusual_whales/status/2116991416782188579",
+   "posted_at": "2026-11-01T20:31:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 106812,
+   "likes": 25,
+   "reposts": 2,
+   "text": "SALE ENDS TODAY!\n\nGet 20% off right on site.\n\nYou read that right - 20% off everything.\n\nNo trick, only treats.\n\nJoin here: https://t.co/Ylny1dsPjT https://t.co/N2X8Xy6n59",
+   "url": "https://x.com/unusual_whales/status/2117089563998884038",
+   "posted_at": "2026-11-02T03:01:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 105111,
+   "likes": 22,
+   "reposts": 6,
+   "text": "SALE ENDS TODAY!\n\nGet 20% off right on site.\n\nYou read that right - 20% off everything.\n\nNo trick, only treats.\n\nJoin here: https://t.co/Ylny1dsPjT https://t.co/JIyD9OdBkt",
+   "url": "https://x.com/unusual_whales/status/2116983867244462492",
+   "posted_at": "2026-11-01T20:01:00.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 103442,
+   "likes": 670,
+   "reposts": 52,
+   "text": "TRUMP ON IRAN: WE'LL SEE ABOUT A DEAL, THEY WANT TO MAKE ONE",
+   "url": "https://x.com/DeItaone/status/2117215116978499762",
+   "posted_at": "2026-11-02T11:19:54.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@zerohedge",
+   "name": "zerohedge",
+   "views": 99966,
+   "likes": 349,
+   "reposts": 39,
+   "text": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes https://t.co/fobnY8SISD",
+   "url": "https://x.com/zerohedge/status/2117103264420221344",
+   "posted_at": "2026-11-02T03:55:26.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 94104,
+   "likes": 301,
+   "reposts": 12,
+   "text": "TRUMP: DON'T THINK MUSK WRONG ON WARNINGS ON DEMOCRATIC SWEEP",
+   "url": "https://x.com/DeItaone/status/2117215029057495404",
+   "posted_at": "2026-11-02T11:19:33.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@zerohedge",
+   "name": "zerohedge",
+   "views": 93742,
+   "likes": 270,
+   "reposts": 54,
+   "text": "MS: hedge funds have now moved underweight the broader AI trade for the first time since early 2023, and the combined summer and October de-grossing marks \"the largest sustained stretch of L/S fund de-risking in over 15 years, as gross exposure never fully recovered between https://t.co/JLBSI21IHP https://t.co/plXnjp1Bv6",
+   "url": "https://x.com/zerohedge/status/2117082767590650199",
+   "posted_at": "2026-11-02T02:33:59.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@charliebilello",
+   "name": "Charlie Bilello",
+   "views": 93384,
+   "likes": 675,
+   "reposts": 103,
+   "text": "% Below All-Time High\nApple: -2%\nS&amp;P 500: -3%\nMicrosoft: -6%\nPalantir: -14%\nNvidia: -16%\nAmazon: -17%\nTesla: -20%\nMeta: -23%\nAMD: -24%\nGold: -31%\nGoogle: -32%\nBitcoin: -39%\nSpaceX: -41%\nNetflix: -54%\nEthereum: -55%\nDogecoin: -90%\nFartcoin: -95%\nTrumpCoin: -98%\nMelaniaCoin: -99%",
+   "url": "https://x.com/charliebilello/status/2117004450137289143",
+   "posted_at": "2026-11-01T21:22:47.000Z",
+   "highlight": false
+  },
+  {
+   "handle": "@DeItaone",
+   "name": "*Walter Bloomberg",
+   "views": 54502,
+   "likes": 66,
+   "reposts": 9,
+   "text": "VITOL CEO: OIL MARKET COULD SEE A PRETTY DIFFICULT SPRING\n\nVITOL CEO: OIL DEMAND WILL TAKE YEAR TO RECOVER TO 2025 LEVEL",
+   "url": "https://x.com/DeItaone/status/2117235680526946478",
+   "posted_at": "2026-11-02T12:41:37.000Z",
+   "highlight": false,
+   "draft_en": "Vitol's CEO says oil demand will take a full year to get back to 2025 levels. The oil shock has already done the demand destruction the Fed would otherwise have to engineer.\n\nThat is how a rolling recession works its way through the economy.",
+   "video_tip": "Quote card of the Vitol line over a US gasoline demand chart; 12s, captions.",
+   "draft_keywords": [
+    "Vitol",
+    "oil demand",
+    "rolling recession"
+   ],
+   "why_hit": "Vitol CEO comments ran on 5 watchlist accounts within an hour (8K-55K each), a fresh angle on the oil story."
+  },
+  {
+   "handle": "@charliebilello",
+   "name": "Charlie Bilello",
+   "views": 44921,
+   "likes": 404,
+   "reposts": 41,
+   "text": "Polymarket: 71% probability of a Democrat sweep in the Midterms (winning back the House &amp; the Senate), the highest odds to date.\n\n\"It's the inflation, stupid.\" https://t.co/mww2eXK0ID",
+   "url": "https://x.com/charliebilello/status/2117031004225556904",
+   "posted_at": "2026-11-01T23:08:18.000Z",
+   "highlight": false,
+   "draft_en": "Polymarket puts a Democratic sweep at 71%, the highest yet. The S&P 500 has been higher 6 and 12 months after every midterm in the last 75 years, whoever won.\n\nThe outcome nobody is priced for is Republicans holding both chambers.",
+   "video_tip": "Bar chart of S&P 12-month returns after each midterm since 1950, ending on a '71%' Polymarket card; 20s.",
+   "draft_keywords": [
+    "midterms",
+    "Polymarket",
+    "S&P 500"
+   ],
+   "why_hit": "Midterm/Trump politics drew ~2.8M views across 19 hits; Bilello's market-scoreboard posts ran 37K-93K."
   }
  ],
  "virals": [
   {
-   "handle": "@unusual_whales",
-   "name": "unusual_whales",
-   "views": 765505,
-   "text": "JUST IN: The U.S. Department of the Treasury has announced new rates for Series I bonds.\n\nNewly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield offered on purchases made through Oct. 31.",
-   "url": "https://x.com/unusual_whales/status/2116610657856393527",
-   "posted_at": "2026-10-31T19:18:00.000Z"
-  },
-  {
    "handle": "@KobeissiLetter",
    "name": "The Kobeissi Letter",
-   "views": 667966,
-   "text": "BREAKING: The FBI announces that North Korea was behind the $6.3 billion hack of Binance, now the largest hack in history.\n\nNorth Korean hackers were previously accused by the FBI of some of the biggest crypto hacks.\n\nThis includes the $1.5 billion Bybit attack last year and the",
-   "url": "https://x.com/KobeissiLetter/status/2116669713430282667",
-   "posted_at": "2026-10-31T23:12:40.000Z"
+   "views": 1339900,
+   "text": "BREAKING: Israeli President Netanyahu is “pressing” President Trump to strike Iran immediately after US Midterm elections on Tuesday, per Axios.\n\nIsraeli sources reportedly said the call was \"tough,\" while US sources described it as \"direct.\"\n\nPresident Trump said the US still",
+   "url": "https://x.com/KobeissiLetter/status/2116975383077904829"
   },
   {
    "handle": "@unusual_whales",
    "name": "unusual_whales",
-   "views": 664558,
-   "text": "The poorest Americans lose and the richest gain under Trump’s “Big Beautiful Bill,” per the Congressional Budget Office.\n\nAverage yearly change in household resources, 2026–2034:\n\nPoorest 10%: -$1,214 (about 3% of income)\nRichest 10%: +$13,622 (about 2.7% of income)",
-   "url": "https://x.com/unusual_whales/status/2116576181117919562",
-   "posted_at": "2026-10-31T17:01:00.000Z"
+   "views": 1260812,
+   "text": "BREAKING: Anthropic's Claude AI blocks video game cloning and reverse-engineering, per Toms Hardware",
+   "url": "https://x.com/unusual_whales/status/2116967982123630842"
   },
   {
    "handle": "@unusual_whales",
    "name": "unusual_whales",
-   "views": 660626,
-   "text": "BREAKING: Judge orders Trump administration to stop threatening US election officials, per BBC",
-   "url": "https://x.com/unusual_whales/status/2116721982595338428",
-   "posted_at": "2026-11-01T02:40:22.000Z"
+   "views": 874135,
+   "text": "Canada’s housing crash is now approaching America’s 2008 bust, per BMO.\n\nCanadian home prices have fallen 20.5% nationally from their early-2022 peak, close to the 26% decline the US saw during the 2008 housing crash.",
+   "url": "https://x.com/unusual_whales/status/2117059364825493581"
   },
   {
    "handle": "@unusual_whales",
    "name": "unusual_whales",
-   "views": 599415,
-   "text": "Share of Americans who say they’re on track for retirement, per Goldman Sachs:\n\nGen Z: 66%\nMillennials: 61%\nBoomers: 60%\nGen X: 49%\n\nGen X is the only generation where fewer than half feel on track.",
-   "url": "https://x.com/unusual_whales/status/2116636578881962248",
-   "posted_at": "2026-10-31T21:01:00.000Z"
+   "views": 847444,
+   "text": "BREAKING: \"Under pressure from Israeli prime minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran. The target would be Pickax Mountain in central Iran, where Israeli intelligence claims the Iranian government has restarted",
+   "url": "https://x.com/unusual_whales/status/2117101618562994674"
+  },
+  {
+   "handle": "@unusual_whales",
+   "name": "unusual_whales",
+   "views": 433819,
+   "text": "\"Capitalism needs a newer pitch as socialism gains ground,\" per FOX",
+   "url": "https://x.com/unusual_whales/status/2117074464215359506"
   }
  ],
  "outsiders": [],
  "patterns": [
-  "Iran/Hormuz/Gulf (Araqchi conditions, mined tanker fire, WSJ strike timing after midterms, Doha talks): 37 posts, ~3.2M views, median ~50K",
-  "Household finance stats (I bonds 5.51%, CBO bill distribution, Gen X retirement, real wages, savings rate 4.2%): 11 posts, ~3.2M views, highest median ~161K",
-  "Binance hack (90% replenished, FBI names North Korea, withdrawals restart): 15 posts, ~2.3M views; Midterms/election officials: 10 posts, ~2.4M",
-  "Format: 7 BREAKING/JUST IN posts summed ~3.1M (median ~494K); 16 stat-led unusual_whales/Kobeissi posts summed ~4.5M (median ~160K); 17 all-caps wire flashes ~2.6M",
-  "Timing: Saturday 8-9 AM CT (Iran FM + Binance flashes) and 12-2 PM CT carried the most views; overnight 1-7 AM CT medians fell to ~17-40K"
+  "Iran/Israel/Hormuz (Netanyahu pressing for strikes after midterms, Pickax Mountain report, Rubio diplomacy, tanker mines, China-Oman communique): 28 posts, ~3.9M views, median ~45K",
+  "AI/tech (Claude anti-cloning, record $201.9B Big Tech capex, data-center opposition, hedge funds underweight AI): 21 posts, ~2.9M views, median ~70K",
+  "Midterms/Trump politics (veto threat, Polymarket 71% Dem sweep, Musk/SpaceX): 19 posts, ~2.8M views, median ~45K",
+  "Housing (Canada near 2008-style drop, 44% price cuts, 97% mortgage lock-in): 5 posts, ~1.5M views, best median ~190K",
+  "Format: BREAKING/JUST IN leads had a ~227K median vs ~38K for all-caps wire flashes; 'stat, per [source]' posts from unusual_whales had a ~204K median"
  ],
  "no_hits": [
   {
    "handle": "@markets",
-   "reason": "API returned 0 original posts for the window (sixth day running; likely a data gap).",
+   "reason": "API returned 0 original posts for the window (seventh day running; likely a data gap).",
    "max_views": null
   },
   {
    "handle": "@MacroAlf",
-   "reason": "No original posts in the last 24h window (since Oct 31 7:00 AM CT).",
-   "max_views": null
-  },
-  {
-   "handle": "@biancoresearch",
-   "reason": "No original posts in the last 24h window (since Oct 31 7:00 AM CT).",
-   "max_views": null
-  },
-  {
-   "handle": "@NickTimiraos",
-   "reason": "No original posts in the last 24h window (since Oct 31 7:00 AM CT).",
+   "reason": "No original posts in the last 24h window (since Nov 1 7:00 AM CT).",
    "max_views": null
   }
  ],
- "virals_narrative": "Top 5 originals by views from the last ~24h (since Oct 31 7:00 AM CT) across the 17-account watchlist, pulled Nov 1 ~7:15 AM CT.",
- "narrative_synthesis": "151 of 154 originals pulled cleared 5k views (146 at 10k+), ~15.5M views combined; pulls capped at the 25 most recent originals per account. Iran led by volume: 37 hits and ~3.2M views, from Araqchi's Al Jazeera flashes to the WSJ report that the US is preparing a 'short and intense' campaign after the Nov 3 midterm (494K on Kobeissi). Household-finance stats had the best medians (~161K): Series I bonds resetting to 5.51% was the top post at 766K, plus the CBO 'Big Beautiful Bill' distribution (665K) and Gen X retirement confidence (599K). The Binance hack stayed hot with the FBI naming North Korea (668K) and withdrawals restarting. Midterm and election-official headlines drew ~2.4M, and Kobeissi's 'stealth bear market' thread (Nasdaq 100 -$4T in 25 days vs S&P ex-AI record) hit 477K.",
+ "virals_narrative": "Top 5 originals by views from the last ~24h (since Nov 1 7:00 AM CT) across the 17-account watchlist, pulled Nov 2 ~7:05 AM CT.",
+ "narrative_synthesis": "173 originals cleared 5k views (~15.8M views combined); pulls capped at the 25 most recent posts for zerohedge, financialjuice, FirstSquawk and unusual_whales. The top two posts were Kobeissi's Axios report that Netanyahu is pressing Trump to strike Iran right after Tuesday's midterm (1.34M) and unusual_whales on Claude blocking game cloning (1.26M). Iran dominated volume (~3.9M views), but housing data had the best medians: Canada's 20.5% price drop vs the US 2008 bust hit 874K. This morning's turn is de-escalation: Rubio's 'diplomatically' line pushed WTI below $100 (242K on Kobeissi) and Vitol's CEO said demand needs a year to recover. Sourced-stat posts and BREAKING leads beat raw wire flashes by about 5x on median views.",
  "virals_window": "last ~24h",
  "virals_target": 5,
- "hits_count": 151,
+ "hits_count": 173,
  "outsiders_count": 0,
  "operator": {
   "handle": "@swiftmacro",
@@ -571,121 +597,121 @@
  "watchlist_stats": [
   {
    "handle": "@unusual_whales",
-   "posts": 23,
-   "median_views": 177133,
-   "max_views": 765505,
+   "posts": 17,
+   "median_views": 178263,
+   "max_views": 1260812,
    "under_5k": 0
   },
   {
    "handle": "@KobeissiLetter",
-   "posts": 7,
-   "median_views": 158458,
-   "max_views": 667966,
+   "posts": 13,
+   "median_views": 163111,
+   "max_views": 1339900,
+   "under_5k": 0
+  },
+  {
+   "handle": "@biancoresearch",
+   "posts": 2,
+   "median_views": 109345,
+   "max_views": 176365,
    "under_5k": 0
   },
   {
    "handle": "@DeItaone",
-   "posts": 18,
-   "median_views": 148608,
-   "max_views": 495148,
+   "posts": 24,
+   "median_views": 85729,
+   "max_views": 232669,
    "under_5k": 0
   },
   {
    "handle": "@zerohedge",
    "posts": 25,
-   "median_views": 79478,
-   "max_views": 212380,
+   "median_views": 60557,
+   "max_views": 199364,
+   "under_5k": 0
+  },
+  {
+   "handle": "@NickTimiraos",
+   "posts": 1,
+   "median_views": 54360,
+   "max_views": 54360,
    "under_5k": 0
   },
   {
    "handle": "@Barchart",
-   "posts": 1,
-   "median_views": 66214,
-   "max_views": 66214,
+   "posts": 6,
+   "median_views": 53573,
+   "max_views": 61470,
    "under_5k": 0
   },
   {
    "handle": "@charliebilello",
-   "posts": 3,
-   "median_views": 49783,
-   "max_views": 99039,
+   "posts": 9,
+   "median_views": 44921,
+   "max_views": 93384,
    "under_5k": 0
   },
   {
    "handle": "@financialjuice",
    "posts": 25,
-   "median_views": 44336,
-   "max_views": 56892,
-   "under_5k": 0
-  },
-  {
-   "handle": "@JavierBlas",
-   "posts": 2,
-   "median_views": 34174,
-   "max_views": 44912,
-   "under_5k": 0
-  },
-  {
-   "handle": "@LizAnnSonders",
-   "posts": 1,
-   "median_views": 22664,
-   "max_views": 22664,
+   "median_views": 35149,
+   "max_views": 45766,
    "under_5k": 0
   },
   {
    "handle": "@FirstSquawk",
    "posts": 25,
-   "median_views": 20198,
-   "max_views": 34791,
+   "median_views": 19499,
+   "max_views": 40063,
    "under_5k": 0
   },
   {
+   "handle": "@JavierBlas",
+   "posts": 9,
+   "median_views": 19094,
+   "max_views": 68444,
+   "under_5k": 1
+  },
+  {
+   "handle": "@TheTranscript_",
+   "posts": 8,
+   "median_views": 9921,
+   "max_views": 16940,
+   "under_5k": 1
+  },
+  {
    "handle": "@Schuldensuehner",
-   "posts": 2,
-   "median_views": 19631,
-   "max_views": 21897,
+   "posts": 1,
+   "median_views": 7565,
+   "max_views": 7565,
+   "under_5k": 0
+  },
+  {
+   "handle": "@LizAnnSonders",
+   "posts": 7,
+   "median_views": 6072,
+   "max_views": 6688,
    "under_5k": 0
   },
   {
    "handle": "@robin_j_brooks",
-   "posts": 8,
-   "median_views": 12027,
-   "max_views": 28283,
-   "under_5k": 0
-  },
-  {
-   "handle": "@TheTranscript_",
-   "posts": 14,
-   "median_views": 9333,
-   "max_views": 22980,
-   "under_5k": 3
-  },
-  {
-   "handle": "@biancoresearch",
-   "posts": 0,
-   "median_views": 0,
-   "max_views": 0,
-   "under_5k": 0
+   "posts": 7,
+   "median_views": 4423,
+   "max_views": 6898,
+   "under_5k": 4
   },
   {
    "handle": "@markets",
    "posts": 0,
-   "median_views": 0,
-   "max_views": 0,
-   "under_5k": 0
-  },
-  {
-   "handle": "@NickTimiraos",
-   "posts": 0,
-   "median_views": 0,
-   "max_views": 0,
+   "median_views": null,
+   "max_views": null,
    "under_5k": 0
   },
   {
    "handle": "@MacroAlf",
    "posts": 0,
-   "median_views": 0,
-   "max_views": 0,
+   "median_views": null,
+   "max_views": null,
    "under_5k": 0
   }
  ],
@@ -693,64 +719,73 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Series I bonds 5.51%"
+    "keyword": "Netanyahu / strike Iran after midterms"
    },
    {
     "rank": 2,
-    "keyword": "Binance hack / North Korea"
+    "keyword": "Claude blocks game cloning"
    },
    {
     "rank": 3,
-    "keyword": "Iran strikes after midterms"
+    "keyword": "Canada housing vs 2008"
    },
    {
     "rank": 4,
-    "keyword": "CBO 'Big Beautiful Bill'"
+    "keyword": "Pickax Mountain"
    },
    {
     "rank": 5,
-    "keyword": "Gen X retirement"
+    "keyword": "Rubio: Iran diplomacy, WTI < $100"
    },
    {
     "rank": 6,
-    "keyword": "Araqchi / Hormuz terms"
+    "keyword": "Polymarket 71% Dem sweep"
    },
    {
     "rank": 7,
-    "keyword": "S&P 500 ex-AI record"
+    "keyword": "Big Tech capex $201.9B"
    },
    {
     "rank": 8,
-    "keyword": "Savings rate 4.2%"
+    "keyword": "Data-center opposition 71%"
    },
    {
     "rank": 9,
-    "keyword": "Debt maturity wall $1.9T"
+    "keyword": "Binance $3.5B outflows"
    },
    {
     "rank": 10,
-    "keyword": "OPEC+ holds December quotas"
+    "keyword": "Vitol: demand recovery 1 year"
    }
   ]
  },
  "operator_posts": [
   {
-   "url": "https://x.com/SwiftMacro/status/2116645927125676442",
-   "posted_at": "2026-10-31T21:38:09.000Z",
-   "views": 44,
-   "likes": 1,
-   "reposts": 0,
-   "replies": 1,
-   "text": "US summer gasoline consumption was the weakest in about 25 years outside 2020. The oil shock is already cooling demand, and the Fed has no reason to pile on."
-  },
-  {
-   "url": "https://x.com/SwiftMacro/status/2116549739659637045",
-   "posted_at": "2026-10-31T15:15:56.000Z",
-   "views": 57,
+   "url": "https://x.com/SwiftMacro/status/2116971660175966654",
+   "posted_at": "2026-11-01T19:12:29.000Z",
+   "views": 69,
    "likes": 1,
    "reposts": 0,
    "replies": 0,
-   "text": "Gulf allies are reportedly being told to prepare for US strikes on Iran as early as Nov 4, while Pakistan says it is cautiously optimistic on mediation. Pressure and talks in the same week is what leverage looks like.\n\nTehran keeps losing options. Washington keeps adding them."
+   "text": "A Qatar Gas LNG carrier was targeted in the Gulf, Saudi Arabia and the GCC are condemning it in public, and UKMTO just reported another vessel hit near Hormuz. Iran's foreign minister says the Qatar-mediated talks are progressing on the same day. Every new incident pushes the"
+  },
+  {
+   "url": "https://x.com/SwiftMacro/status/2116959010637349150",
+   "posted_at": "2026-11-01T18:22:13.000Z",
+   "views": 23,
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "text": "Google's model APIs now process nearly 32 billion tokens per minute, more than 4x a year ago. Every one of those tokens runs on chips, power and cooling that someone has to build."
+  },
+  {
+   "url": "https://x.com/SwiftMacro/status/2116949955055370327",
+   "posted_at": "2026-11-01T17:46:14.000Z",
+   "views": 24,
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "text": "The S&amp;P 500 has been higher 6 and 12 months after every midterm election in the last 75 years. Policy uncertainty clears once the vote is counted, and parked capex budgets start moving."
   }
  ]
 }
